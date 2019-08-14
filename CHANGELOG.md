@@ -5,6 +5,76 @@ All notable changes to this project will be documented in this file.
 
 The format is based on [Keep a Changelog](http://keepachangelog.com/en/1.0.0/).
 
+## [May 2019]
+
+### Added
+
+## [April 2019]
+
+### Added
+
+### Changed
+
+- Updates to Core.LargeFileUpload sample by mariusRT.
+
+## [March 2019]
+
+### Added
+
+### Changed
+
+## [February 2019]
+
+### Added
+
+### Changed
+
+## [January 2019]
+
+### Added
+
+- Added MicrosoftGraph.SPOConsumer sample: This is simplistic ASP.net MVC application to consume SharePoint Online using the Microsoft Graph.
+
+### Changed
+
+## [December 2018]
+
+### Added
+
+### Changed
+
+## [November 2018]
+
+### Added
+
+### Changed
+
+- Upgraded Modernization.PageTransformation sample to use the first production release of the PnP Modernization framework
+
+## [October 2018]
+
+### Added
+
+### Changed
+
+- Upgraded Modernization.PageTransformation sample to use the first production release of the PnP Modernization framework
+
+## [September 2018]
+
+### Added
+
+- New solution Migration.Utilities.Discussions: shows how to extract and upload SharePoint discussion list data [manvirb4u]
+
+### Changed
+
+## [August 2018]
+
+### Added
+
+### Changed
+
+- Updated Modernization.PageTransformation sample to use the beta version of the modernization framework
+
 ## [July 2018]
 
 ### Added
